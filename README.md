@@ -29,6 +29,6 @@
 
 - [여행자의 안전을 위한 실시간 위치기반 뉴스 서비스 "MOMENT" (웹/어플)  / 서인하, 김기표, 배성희](https://github.com/JNU-econovation/MOMENT)  <br/><br/>
 
-![포스터1](https://user-images.githubusercontent.com/40922963/61378022-5cd2c100-a8df-11e9-825e-9b734890f893.png)
+![포스터1](https://user-images.githubusercontent.com/40922963/61381220-b2aa6780-a8e5-11e9-9dc7-e4de66b50b2a.png)
 
-![포스터2](https://user-images.githubusercontent.com/40922963/61378076-855abb00-a8df-11e9-87d7-dff7a4454dda.png)
+![포스터2](https://user-images.githubusercontent.com/40922963/61381234-b5a55800-a8e5-11e9-81f3-695d5c21a2ee.png)
