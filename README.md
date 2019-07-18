@@ -19,7 +19,7 @@
 
 - 면역체계 2D 진행형 로그라이크 "IMU_IMU" (게임) / 박현서, 박준수, 서인하  <br/><br/>
 
-- 데일리 피드백 어플리케이션 (어플) / 신재욱, 남수민  <br/><br/>
+- [데일리 피드백 어플리케이션 (어플) / 신재욱, 남수민](https://github.com/serotoninpm/android-Appletree)  <br/><br/>
 
 - [동아리방 출입 신청 및 관리 시스템 "IN  & OUT" (임베디드) / 정회형, 김정인, 김기표](https://github.com/JNU-econovation/inandout)  <br/><br/>
 
@@ -29,6 +29,6 @@
 
 - [여행자의 안전을 위한 실시간 위치기반 뉴스 서비스 "MOMENT" (웹/어플)  / 서인하, 김기표, 배성희](https://github.com/JNU-econovation/MOMENT)  <br/><br/>
 
-![포스터1](https://user-images.githubusercontent.com/40922963/61381220-b2aa6780-a8e5-11e9-9dc7-e4de66b50b2a.png)
+![포스터1](https://user-images.githubusercontent.com/40922963/61455457-8868b080-a99e-11e9-95e0-9d25f6bb5e9c.png)
 
-![포스터2](https://user-images.githubusercontent.com/40922963/61381234-b5a55800-a8e5-11e9-81f3-695d5c21a2ee.png)
+![포스터2](https://user-images.githubusercontent.com/40922963/61455458-8acb0a80-a99e-11e9-968d-f1d5b556912f.png)
