@@ -1,4 +1,4 @@
-# ECONOVATION_19-1_Final
+# ECONOVATION 2019년도 1학기 최종발표
 
 
 ### 프로젝트 Repository
